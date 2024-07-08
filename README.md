@@ -1,2 +1,4 @@
 # gps-
-my first repository on Github
+#my first repository on Github
+how to use github
+
